@@ -1,0 +1,212 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+font-family: 'Lato', sans-serif;
+}
+
+.container{
+width: 1140px;
+margin: 0 auto;
+
+}
+/* header section start*/
+header{
+    background: #f6f9f9;
+    padding: 30px 0px;
+    width: 100%;
+    float: left;
+}
+
+.logo{
+    width: 30%;
+    float: left;
+}
+.logo img{
+
+}
+/*banner section*/
+.banner{
+width: 100%;
+float: left;
+background: url(../img/banner.jpg)no-repeat;
+background-size: cover;
+}
+.banner-conten{
+    padding-top: 215px;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+.banner-conten h2{
+font-size: 120px;
+    color: #fff;
+    font-weight: bold;
+}
+.banner-conten span{
+display: block;
+    border-bottom: 2px solid #15a4fa;
+    margin: 0 auto;
+    width: 80%;
+}
+.banner-conten p{
+color: #fff;
+font-weight: 300;
+}
+.btn{
+    background: transparent;
+    border: 1px solid #;
+    border: 1px solid #15a4fa;
+    padding: 8px 18px;
+    color: #fff;
+    margin: 50px 0px 120px;
+}
+.btn-icon{
+color: #fff;
+margin-bottom: 70px;
+}
+/* container section 2*/
+.container-2{
+width: 100%;
+float: left;
+
+}
+.conten{
+ padding-top: 75px;
+    width: 100%;
+    height: 110px;
+    margin: 0 auto;
+    text-align: center;
+    background: #f6f9f9;
+    float: left;
+}
+.conten h2{
+
+}
+.devices{
+width: 33.33%;
+float: left;
+}
+.design{
+width: 33.33%;
+float: left;
+}
+.icon{
+width: 33.33%;
+float: left;
+}
+
+.devices i{
+font-size: 50px;
+text-align: center;
+    display: block;
+    background: #5fc3ff;
+    margin: 10px;
+    color: #fff;
+}
+
+.devices h2{
+text-align: center;
+font-size: 18px;
+}
+.devices p{
+    text-align: center;
+        font-size: 15px;
+}
+.design i{
+font-size: 50px;
+text-align: center;
+    display: block;
+    background: #5fc3ff;
+    margin: 10px;
+    color: #fff;
+}
+
+.design h2{
+text-align: center;
+font-size: 18px;
+}
+.design p{
+    text-align: center;
+        font-size: 15px;
+}
+.icon i{
+font-size: 50px;
+text-align: center;
+    display: block;
+    background: #5fc3ff;
+    margin: 10px;
+    color: #fff;
+
+}
+.icon h2{
+text-align: center;
+font-size: 18px;
+
+}
+.icon p{
+    text-align: center;
+        font-size: 15px;
+}
+.portfolio-1{
+	width: 33.33%;
+	float: left;
+	margin-bottom: 10px;
+}
+.portfolio{
+	text-align: center;
+	margin: 10px;
+}
+.portfolio h2{
+	margin: 10px;
+}
+.contact-form{
+	width: 523px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 44px;
+    background: #2f3a4d;
+}
+.container h2{
+text-align: center;
+}
+.container p{
+text-align: center;
+}
+.inputTag input{
+	    font-size: 20px;
+    text-transform: capitalize;
+    padding: 10px 10px;
+    width: 95%;
+    background: #2f3a4d;
+    margin: 8px 0px;
+
+}
+.inputTag textarea{
+	width: 520px;
+	height: auto;
+	background: #2f3a4d;
+}
+.inputTag button{
+	text-align: right;
+}
+.footer-conten{
+    width: 100%;
+    height: 65px;
+    background: #dedeff94;
+}
+.footer-conten ul li{
+	float: left;
+    margin: 12px;
+    text-style: none;
+    list-style-type: none;
+    color: #fff;
+    background: #1485e8;
+}
+.footer-conten ul li i{
+margin: 7px 8px;
+    padding: 4px 7px;
+    font-size: 27px;
+}
